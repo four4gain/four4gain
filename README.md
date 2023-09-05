@@ -1,7 +1,7 @@
-### Olá! Eu sou o Caio Matias!
+### Olá! Eu sou o Caio Daniel!
 
 - 🔭 Hoje eu trabalho em uma farmacia.
-- 🌱 Estudando  HTML, CSS e Javascript
+- 🌱 Estudando  Python, Pandas, R e SQL.
 - 📫 Contate-me no email: caiodani.dev@hotmail.com
 
 <div align="center">
