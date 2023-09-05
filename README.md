@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Caio Daniel!
 
-- 🔭 Hoje eu trabalho em uma farmacia.
+- 🔭 Estou aguardando a minha primeira oportunidade.
 - 🌱 Estudando  Python, Pandas, R e SQL.
 - 📫 Contate-me no email: caiodani.dev@hotmail.com
 
