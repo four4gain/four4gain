@@ -3,12 +3,6 @@
 - 🔭 Estou aguardando a minha primeira oportunidade.
 - 🌱 Estudando  Python, Pandas, R e SQL.
 - 📫 Contate-me no email: caiodani.dev@hotmail.com
-
-<div align="center">
-  <a href="https://github.com/four4gain">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=four4gain&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
