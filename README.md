@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Caio Daniel!
 
 - 🔭 Estou aguardando a minha primeira oportunidade.
-- 🌱 Estudando  Python, Pandas, R e SQL.
+- 🌱 Estudando  HTML, CSS, JavaScript e Python (por causa da faculdade)
 - 📫 Contate-me no email: caiodani.dev@hotmail.com
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
